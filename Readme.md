@@ -1,10 +1,15 @@
 # SLE-3: Architectural Design (Full C4 Model)
 
 **Course:** 02AML204 – Introduction to Artificial Intelligence
+
 **Programme:** SY B.Tech. CSE (AI & ML), Sem-VI
+
 **Name:** Sharvil S. Chavan
+
 **PRN:** 25UAM085
+
 **Division:** B
+
 **GitHub:** https://github.com/SharvilChavan-10
 
 ---
